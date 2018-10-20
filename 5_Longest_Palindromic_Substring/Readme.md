@@ -10,3 +10,4 @@ Example 2:
 Input: cbbd
 Output: bb
  
+回文字符就是从中间对称的字符
