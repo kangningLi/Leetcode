@@ -33,3 +33,20 @@
 
 ## R-CNN
 #### Rich feature hierarchies for accurate object detection and semantic segmentation
+- arXiv: [https://arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)
+- Author page: [http://www.rossgirshick.info/](http://www.rossgirshick.info/)
+- Slide: [http://www.rossgirshick.info/](http://www.rossgirshick.info/)
+- github: [https://github.com/rbgirshick/rcnn](https://github.com/rbgirshick/rcnn)
+
+
+
+
+
+
+
+
+
+
+
+
+
