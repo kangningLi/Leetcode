@@ -47,6 +47,11 @@
 - code(torch): [https://github.com/mahyarnajibi/fast-rcnn-torch](https://github.com/mahyarnajibi/fast-rcnn-torch)
 - code(tensorflow): [https://github.com/zplizzi/tensorflow-fast-rcnn](https://github.com/zplizzi/tensorflow-fast-rcnn)
 
+## A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection
+- intro: CVPR 2017
+- arXiv: [https://arxiv.org/abs/1704.03414](https://arxiv.org/abs/1704.03414)
+- code(caffe): [https://github.com/xiaolonw/adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn)
+
 
 
 
