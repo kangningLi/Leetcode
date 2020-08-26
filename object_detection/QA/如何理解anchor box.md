@@ -29,7 +29,7 @@ anchor相关的问题：R-CNN，SSD，YOLO中的anchor
 
 Anchor Box的生成是以CNN网络最后生成的Feature Map上的点为中心的（映射回原图的坐标），以Faster R-CNN为例，使用VGG网络对对输入的图像下采样了**16**倍，也就是Feature Map上的一个点对应于输入图像上的一个16×16的正方形区域（感受野）。根据预定义的Anchor,Feature Map上的一点为中心 就可以在原图上生成9种不同形状不同大小的边框，如下图：
 
-![anchor](/Users/likangning/Desktop/anchor.png)
+![anchor](https://github.com/kangningLi/paperList/blob/master/object_detection/image/anchor.png)
 
 从上图也可以看出为什么需要Anchor。根据CNN的感受野，一个Feature Map上的点对应于原图的16×16的正方形区域，仅仅利用该区域的边框进行目标定位，其精度无疑会很差，甚至根本“框”不到目标。 而加入了Anchor后，一个Feature Map上的点可以生成9中不同形状不同大小的框，这样“框”住目标的概率就会很大，就大大的提高了检查的召回率；再通过后续的网络对这些边框进行调整，其精度也能大大的提高。
 
