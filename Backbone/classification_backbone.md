@@ -9,5 +9,11 @@
 - [Residual Net](https://arxiv.org/pdf/1512.03385.pdf ):Deep Residual Learning for Image Recognition   
 - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf ):Densely Connected Convolutional Networks
 
-- Inception:
+- Inception-V1（GoogLeNet)
+- BN-Inception
+- Inception-V2
+- Inception-V3
+- Inception-ResNet-V1
+- Inception-V4
+- Inception-ResNet-V2
 
