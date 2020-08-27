@@ -10,10 +10,7 @@
 - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf ):Densely Connected Convolutional Networks
 
 - Inception-V1（GoogLeNet)
-- BN-Inception
-- Inception-V2
-- Inception-V3
-- Inception-ResNet-V1
-- Inception-V4
-- Inception-ResNet-V2
+- [BN-Inception](https://arxiv.org/abs/1502.03167): Batch Normalization
+- [Inception-V2/Inception-V3](https://arxiv.org/abs/1512.00567)
+- [Inception-ResNet-V1/Inception-V4/Inception-ResNet-V2](https://arxiv.org/abs/1602.07261)
 
