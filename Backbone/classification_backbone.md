@@ -1,5 +1,4 @@
-#### Most state-of-the-art detection algorithms are based on classification backbones
-Modern object detectors heavily rely on pre-trained classification models on ImageNet.
+#### Most state-of-the-art detection algorithms are based on classification backbones，Modern object detectors heavily rely on pre-trained classification models on ImageNet.
 
 
 
