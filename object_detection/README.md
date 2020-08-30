@@ -66,6 +66,89 @@
 - github(c++ demo): [https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus](https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus)
 - github(c++): [https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev](https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev)
 
+## YOLO
+
+#### You Only Look Once: Unified, Real-Time Object Detection(YOLOV1)
+- arxiv: [https://arxiv.org/abs/1506.02640](https://arxiv.org/abs/1506.02640)
+- official_blog: [https://pjreddie.com/darknet/yolov1/](https://pjreddie.com/darknet/yolov1/)
+- github: [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
+- slide: [https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- github(tensorflow): [https://github.com/gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow)
+- github(caffee): [https://github.com/xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
+- github(yolo-windows): [https://github.com/frischzenger/yolo-windows](https://github.com/frischzenger/yolo-windows)
+- github(yolo-windows): [https://github.com/AlexeyAB/yolo-windows](https://github.com/AlexeyAB/yolo-windows)
+- github(tensorflow-yolo): [https://github.com/nilboy/tensorflow-yolo](https://github.com/nilboy/tensorflow-yolo)
+
+#### darkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++
+- github: [https://github.com/Guanghan/darknet](https://github.com/Guanghan/darknet)
+
+#### Start Training YOLO with Our Own Data
+- blog: [http://guanghan.info/blog/en/my-works/train-yolo/](http://guanghan.info/blog/en/my-works/train-yolo/)
+- github: [https://github.com/Guanghan/darknet](https://github.com/Guanghan/darknet)
+
+#### YOLO: Core ML versus MPSNNGraph
+- intro: Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API.
+- blog: [http://machinethink.net/blog/yolo-coreml-versus-mps-graph/](http://machinethink.net/blog/yolo-coreml-versus-mps-graph/)
+- github: [https://github.com/hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph)
+
+#### TensorFlow YOLO object detection on Android
+- intro: Real-time object detection on Android using the YOLO network with TensorFlow
+- github: [https://github.com/natanielruiz/android-yolo](https://github.com/natanielruiz/android-yolo)
+
+#### Computer Vision in iOS – Object Detection
+- github: [https://github.com/r4ghu/iOS-CoreML-Yolo](https://github.com/r4ghu/iOS-CoreML-Yolo)
+
+## YOLOV2
+
+#### YOLO9000: Better, Faster, Stronger
+- arxiv: [https://arxiv.org/abs/1612.08242](https://arxiv.org/abs/1612.08242)
+- blog: [https://pjreddie.com/darknet/yolov2/](https://pjreddie.com/darknet/yolov2/)[https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
+- github(keras): [https://github.com/allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)
+- github(pytorch): [https://github.com/longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch)
+- github(tensorflow): [https://github.com/hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)
+- github(windows): [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+- github(caffe): [https://github.com/choasUp/caffe-yolo9000](https://github.com/choasUp/caffe-yolo9000)
+- github(tensorflow): [https://github.com/KOD-Chen/YOLOv2-Tensorflow](https://github.com/KOD-Chen/YOLOv2-Tensorflow)
+- github(tensorflow): [https://github.com/WojciechMormul/yolo2](https://github.com/WojciechMormul/yolo2)
+
+#### darknet_scripts
+- intro: Auxilary scripts to work with (YOLO) darknet deep learning famework. AKA -> How to generate YOLO anchors?
+- github: [https://github.com/Jumabek/darknet_scripts](https://github.com/Jumabek/darknet_scripts)
+
+#### Yolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2
+- github: [https://github.com/AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
+
+#### LightNet: Bringing pjreddie's DarkNet out of the shadows:
+- github: [https://github.com//explosion/lightnet](https://github.com//explosion/lightnet)
+
+#### Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors:
+- intro: LRM is the first hard example mining strategy which could fit YOLOv2 perfectly and make it better applied in series of real scenarios where both real-time rates and accurate detection are strongly demanded.
+- arxiv: [https://arxiv.org/abs/1804.04606](https://arxiv.org/abs/1804.04606)
+
+#### Object detection at 200 Frames Per Second
+- intro: faster than Tiny-Yolo-v2
+- arxiv: [https://arxiv.org/abs/1805.06361](https://arxiv.org/abs/1805.06361)
+
+#### OmniDetector: With Neural Networks to Bounding Boxes
+- intro: a person detector on n fish-eye images of indoor scenes（NIPS 2018）
+- arxiv: [https://arxiv.org/abs/1805.08503](https://arxiv.org/abs/1805.08503)
+- dataset: [https://gitlab.com/auxilia/omnidetector](https://gitlab.com/auxilia/omnidetector)
+
+
+## YOLOV3
+
+#### YOLOv3: An Incremental Improvement
+- arxiv: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
+- paper: [https://pjreddie.com/media/files/papers/YOLOv3.pdf](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+- official_blof: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
+- github(official): [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
+- github(tensorflow): [https://github.com/mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3)
+- github(keras): [https://github.com/experiencor/keras-yolo3](https://github.com/experiencor/keras-yolo3)
+- github(keras): [https://github.com/qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
+- github(pytorch): [https://github.com/ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)
+- github(pytorch from scratch): [https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)
+- github(pytorch): [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
+- 
 
 
 
