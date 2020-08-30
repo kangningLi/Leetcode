@@ -148,7 +148,22 @@
 - github(pytorch): [https://github.com/ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)
 - github(pytorch from scratch): [https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)
 - github(pytorch): [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
-- 
+
+## SSD
+
+#### SSD: Single Shot MultiBox Detector
+- intro: ECCV 2016 Oral
+- arxiv: [https://arxiv.org/abs/1512.02325](https://arxiv.org/abs/1512.02325)
+- github(official): [https://github.com/weiliu89/caffe/tree/ssd](https://github.com/weiliu89/caffe/tree/ssd)
+- github(mxnet): [https://github.com/zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd)
+- github(keras): [https://github.com/rykov8/ssd_keras](https://github.com/rykov8/ssd_keras)
+- github(tensorflow): [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+- github(mobilnet-ssd/caffe): [https://github.com/chuanqi305/MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD)
+- github(pytorch): [https://github.com/amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
+
+#### What's the diffience in performance between this new code you pushed and the previous code? #327
+- [https://github.com/weiliu89/caffe/issues/327](https://github.com/weiliu89/caffe/issues/327)
+
 
 
 
