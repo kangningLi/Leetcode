@@ -1,4 +1,6 @@
-
+# Training Straigies
+#### Bag of Freebies for Training Object Detection Neural Networks
+- arxiv: [https://arxiv.org/abs/1902.04103](https://arxiv.org/abs/1902.04103)
 # Survey  
 
 #### Imbalance Problems in Object Detection: A Review  
