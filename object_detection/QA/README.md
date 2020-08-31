@@ -59,7 +59,7 @@
 
 22.two-stage为什么效果好
 
-23.激活函数
+23.激活函数 [https://mlfromscratch.com/activation-functions-explained/#/](https://mlfromscratch.com/activation-functions-explained/#/)
 
 24.损失函数，分类loss函数
 
