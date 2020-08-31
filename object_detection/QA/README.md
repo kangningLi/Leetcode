@@ -17,7 +17,7 @@
 
 8.目标检测two-stage模型
 
-​    RCNN->SPPNet-> Fast RCNN-> Faster RCNN-> RFCN-> DCN->DCNv2
+​    RCNN->SPPNet-> Fast RCNN-> Faster RCNN-> RFCN->LibraRFCN-> DCN->DCNv2
 
 9.目标检测one-stage模型
 
