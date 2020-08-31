@@ -1,6 +1,9 @@
-# Training Straigies
+# Training tricks
 #### Bag of Freebies for Training Object Detection Neural Networks
 - arxiv: [https://arxiv.org/abs/1902.04103](https://arxiv.org/abs/1902.04103)
+#### Bag of Tricks for Image Classification with Convolutional Neural Networks
+- arxiv: [https://arxiv.org/abs/1812.01187](https://arxiv.org/abs/1812.01187)
+
 # Survey  
 
 #### Imbalance Problems in Object Detection: A Review  
