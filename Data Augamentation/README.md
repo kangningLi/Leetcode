@@ -17,3 +17,5 @@
 - arxiv: [https://arxiv.org/abs/1710.09412v2](https://arxiv.org/abs/1710.09412v2)
 - intro: Mixup:将随机的两张样本按比例混合，分类的结果按比例分配；
 
+#### AutoAugment:Learning Augmentation Strategies from Data
+- arxiv: [https://arxiv.org/pdf/1805.09501v3.pdf](https://arxiv.org/pdf/1805.09501v3.pdf)
