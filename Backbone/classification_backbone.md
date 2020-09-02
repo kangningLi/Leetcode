@@ -13,7 +13,7 @@
 - [BN-Inception](https://arxiv.org/abs/1502.03167): Batch Normalization
 - [Inception-V2/Inception-V3](https://arxiv.org/abs/1512.00567)
 - [Inception-ResNet-V1/Inception-V4/Inception-ResNet-V2](https://arxiv.org/abs/1602.07261)
-- [CSPNet](https://arxiv.org/abs/1911.11929)
+- [CSPNet](https://arxiv.org/abs/1911.11929): CSPNet: A New Backbone that can Enhance Learning Capability of CNN
 
 # Light-weight Network
 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
