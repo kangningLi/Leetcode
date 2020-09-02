@@ -7,3 +7,5 @@
 #### CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features
 - arxiv: [https://arxiv.org/abs/1905.04899](https://arxiv.org/abs/1905.04899)
 
+#### Improved Regularization of Convolutional Neural Networks with Cutout
+- arxiv: [https://arxiv.org/pdf/1708.04552v2.pdf](https://arxiv.org/pdf/1708.04552v2.pdf)
