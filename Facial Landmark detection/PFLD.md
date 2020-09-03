@@ -67,12 +67,12 @@ C为不同的人脸类别数，作者将人脸分成多个类别，比如侧脸�
 
 yaw，pitch，roll： 分别代表上下翻转，左右翻转，平面内旋转的角度。
 
-![1](/Users/likangning/Desktop/1.png)
+![1](https://github.com/kangningLi/paperList/blob/master/Facial%20Landmark%20detection/image/1.png)
 
 三组 multi scale fully connected layer 结束后是把feature map给concatenate起来。
 
-![2](/Users/likangning/Desktop/2.png)
+![2](https://github.com/kangningLi/paperList/blob/master/Facial%20Landmark%20detection/image/2.png)
 
-![3](/Users/likangning/Desktop/3.png)
+![3](https://github.com/kangningLi/paperList/blob/master/Facial%20Landmark%20detection/image/3.png)
 
 It is easy to obtain that PC c=1 ω c n PK k=1(1 − cos θ k n ) in Eq. (2) acts as γn in Eq. (1). Let us here take a close look at the loss. In which, θ 1 , θ 2 , and θ 3 (K=3) represent the angles of deviation between the ground-truth and estimated yaw, pitch, and roll angles. Clearly, as the deviation angle increases, the penalization goes up. In addition, we categorize a sample into one or multiple attribute classes including profile-face, frontal-face, head-up, head-down, expression, and occlusion. The weighting parameter ω c n is adjusted according to the fraction of samples belonging to class c (this work simply adopts the reciprocal of fraction). For instance, if disabling the geometry and data imbalance functionalities, our loss degenerates to a simple `2 loss. No matter whether the 3D pose and/or the data imbalance bother(s) the training or not, our loss can handle the local variation by its distance measurement.
