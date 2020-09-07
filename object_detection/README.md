@@ -179,6 +179,9 @@
 ## Mask Scoring R-CNN
 - arxiv: [https://arxiv.org/abs/1903.00241](https://arxiv.org/abs/1903.00241)
 
+## Feature Pyramid Networks for Object Detection(FPN)
+- paper: [https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
+
 
 
 
