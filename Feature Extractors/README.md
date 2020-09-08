@@ -5,3 +5,6 @@
 #### Path Aggregation Network for Instance Segmentation(Bottom up path augmentation)
 - paper: [https://arxiv.org/pdf/1803.01534v4.pdf](https://arxiv.org/pdf/1803.01534v4.pdf)
 - code：[https://github.com/ShuLiu1993/PANet](https://github.com/ShuLiu1993/PANet)
+
+#### EfficientDet: Scalable and Efficient Object Detection(BiFPN) 
+- paper:[https://arxiv.org/pdf/1911.09070.pdf](https://arxiv.org/pdf/1911.09070.pdf)
