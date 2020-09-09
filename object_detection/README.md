@@ -184,6 +184,7 @@
 
 #### EfficientDet: Scalable and Efficient Object Detection
 - arxiv: [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
+- github: [https://github.com/google/automl/tree/master/efficientdet](https://github.com/google/automl/tree/master/efficientdet)
 
 
 
