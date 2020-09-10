@@ -4,6 +4,9 @@
 #### Bag of Tricks for Image Classification with Convolutional Neural Networks
 - arxiv: [https://arxiv.org/abs/1812.01187](https://arxiv.org/abs/1812.01187)
 
+#### Efficient Processing of Deep Neural Networks:A Tutorial and Survey
+- arxiv: [https://arxiv.org/pdf/1703.09039.pdf](https://arxiv.org/pdf/1703.09039.pdf)
+
 # Survey  
 
 #### Imbalance Problems in Object Detection: A Review  
