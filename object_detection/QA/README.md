@@ -51,6 +51,8 @@
 
 20.RFBNet
 
+[如何理解感受野](https://www.cnblogs.com/shine-lee/p/12069176.html)
+
 ​    Receptive Field Block
 
 ​    模拟人类视觉的感受野加强网络的特征提取能力，在结构上RFB借鉴了inception的思想，主要是在inception的基础上假如了dilation卷积层，从而有效增大了感受野。
