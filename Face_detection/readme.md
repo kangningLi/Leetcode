@@ -8,3 +8,9 @@
 #### PyramidBox: A Context-assisted Single Shot Face Detector
 - intro: ECCV2018
 - paper: [https://arxiv.org/abs/1803.07737](https://arxiv.org/abs/1803.07737)
+- github: [https://github.com/EricZgw/PyramidBox](https://github.com/EricZgw/PyramidBox)
+
+#### PyramidBox++: High Performance Detector for Finding Tiny Face
+- intro: 2019 March
+- paper: [https://arxiv.org/abs/1904.00386](https://arxiv.org/abs/1904.00386)
+
